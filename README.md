@@ -2,7 +2,7 @@
 
 This project consists on a simple password generator that allows you to customize what characters are in the password and its length.
 
-Check the deployed version [here](https://gimmepassword.now.sh/)
+Check the deployed version [here](https://gimmepassword.now.sh/).
 
 ## Technological stack
 
